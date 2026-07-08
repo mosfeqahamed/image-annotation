@@ -2,7 +2,7 @@
 name = "image-annotation"
 version = "0.1.0"
 description = "AnnotateX — Django REST backend for the Kanban task manager and canvas image-annotation tool."
-readme = "backend/README.md"
+readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "django>=4.2",
